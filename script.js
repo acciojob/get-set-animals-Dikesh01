@@ -27,7 +27,7 @@ class Cat extends Animal {
 window.Animal = Animal;
 window.Dog = Dog;
 window.Cat = Cat;
-S
+
 // class Animal {
 // 	constructor(someSpecies){
 // 		this.species = someSpecies;
